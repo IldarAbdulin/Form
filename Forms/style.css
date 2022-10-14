@@ -1,0 +1,104 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(255, 255, 255);
+} */
+
+.form-grop{
+    margin: 4px;
+    display: inline-block;
+}
+.form-grop label {
+    display: block;
+}
+#saveButton{
+    margin: 4px;
+}
+td{
+    padding: 8px;
+    border: 3px solid #111;
+    color: rgb(75, 0, 0);
+}
+/* h3{ */
+    /* font-weight: 500;
+    text-align: center;
+    color: rgb(12, 146, 75);
+    text-transform: uppercase;
+    font-size: 19px;
+    padding: 10px 0;
+}
+p{
+    font-size: 16px;
+    margin: 0 0 2px 0;
+    color: rgb(70, 70, 70);
+}
+.box{
+    background: rgba(75, 198, 163, 0.267);
+    padding: 100px 50px;
+    border: 1px solid rgb(0, 146, 66);
+    box-shadow: 4px -5px 50px 30px rgba(55, 181, 74, 0.232);
+    border-radius: 15px;
+}
+input{
+    background: rgb(255, 255, 255);
+    color: rgb(29, 29, 29);
+    border-radius: 5px;
+}
+input::placeholder{
+    font-weight: 400;
+    font-size: 13px;
+    color: rgba(29, 29, 29, 0.47);
+    text-align: left;
+}
+#login{
+    border: 1px solid rgba(0, 0, 0, 0.067);
+    padding: 10px;
+    width: 240px;
+    height: 30px;
+}
+#password{
+    border: 1px solid rgba(0, 0, 0, 0.067);
+    padding: 10px;
+    width: 240px;
+    height: 30px;
+}
+.submits{
+    margin: 10px 0 5px 4px;
+}
+#submit{
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: 0 5px 0 0;
+    font-weight: 400;
+    font-size: 13px;
+    color: rgb(217, 217, 217);
+    border: 1px solid rgba(0, 0, 0, 0.067);
+    background:rgb(12, 146, 75);;
+    width: 70px;
+    height: 30px;   
+}
+#registration{
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 13px;
+    color: rgb(217, 217, 217);
+    border: 1px solid rgba(0, 0, 0, 0.067);
+    background:rgb(12, 146, 75);;
+    width: 160px;
+    height: 30px;   
+}
+a{
+    margin: 0 4px;
+    text-decoration: underline;
+    color: rgb(29, 29, 29);
+    font-weight: 500;
+    font-size: 15px;
+}  */
